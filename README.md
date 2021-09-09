@@ -1,2 +1,4 @@
 # cltk_test
-testing out different features of the Classical Language Toolkit
+Testing out different features of the Classical Language Toolkit.
+
+The summary is located at _critique.ipynb_
